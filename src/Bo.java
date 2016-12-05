@@ -1,8 +1,10 @@
 
 public class Bo {
 	public static void main(String[] args) {
-		System.out.println("gut");
+		System.out.println("guuuuuuuuuuut");
 		System.out.println("xie");
 	}
+
+
 
 }
