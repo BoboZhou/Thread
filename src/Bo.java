@@ -5,6 +5,7 @@ public class Bo {
 		System.out.println("bo");
 
 		System.out.println("gut");
+		System.out.println("gut");
 		
 
 	}
