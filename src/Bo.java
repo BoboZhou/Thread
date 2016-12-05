@@ -6,6 +6,7 @@ public class Bo {
 
 		System.out.println("gut");
 		System.out.println("gut");
+		System.out.println("gutd");
 		
 
 	}
