@@ -6,7 +6,11 @@ public class Bo {
 
 		System.out.println("gut");
 		System.out.println("gut");
+
 		System.out.println("gutdd");
+
+		System.out.println("gutd");
+		
 
 	}
 
